@@ -58,7 +58,7 @@ summary = (
     .sort_values(['Year', 'Month'])
 )
 
-print("\n💰 Monthly Savings Summary:")
+print("\n Monthly Savings Summary:")
 print(summary)
 
 # Optionally save to CSV
