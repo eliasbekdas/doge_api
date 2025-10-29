@@ -34,7 +34,7 @@ while True:
 # Convert all pages into a single DataFrame
 df = pd.DataFrame(all_grants)
 
-print("\n📊 Full Grants Data:")
+print("\n Full Grants Data:")
 print(df.head())
 
 # Ensure date is in datetime format
